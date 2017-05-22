@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  AudioNotes
+//  NotesForTheVisuallyChallenged
 //
-//  Created by Salim Fang on 2017/5/22.
-//  Copyright © 2017年 MAP. All rights reserved.
+//  Created by Salim Fang on 2017/5/19.
+//  Copyright © 2017年 Salim Fang. All rights reserved.
 //
 
 import UIKit

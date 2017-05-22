@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9EA46E4F1ED2DF5700A844C9"
-               BuildableName = "AudioNotes.app"
-               BlueprintName = "AudioNotes"
-               ReferencedContainer = "container:AudioNotes.xcodeproj">
+               BuildableName = "NotesForTheVisuallyChallenged.app"
+               BlueprintName = "NotesForTheVisuallyChallenged"
+               ReferencedContainer = "container:NotesForTheVisuallyChallenged.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9EA46E4F1ED2DF5700A844C9"
-            BuildableName = "AudioNotes.app"
-            BlueprintName = "AudioNotes"
-            ReferencedContainer = "container:AudioNotes.xcodeproj">
+            BuildableName = "NotesForTheVisuallyChallenged.app"
+            BlueprintName = "NotesForTheVisuallyChallenged"
+            ReferencedContainer = "container:NotesForTheVisuallyChallenged.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9EA46E4F1ED2DF5700A844C9"
-            BuildableName = "AudioNotes.app"
-            BlueprintName = "AudioNotes"
-            ReferencedContainer = "container:AudioNotes.xcodeproj">
+            BuildableName = "NotesForTheVisuallyChallenged.app"
+            BlueprintName = "NotesForTheVisuallyChallenged"
+            ReferencedContainer = "container:NotesForTheVisuallyChallenged.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9EA46E4F1ED2DF5700A844C9"
-            BuildableName = "AudioNotes.app"
-            BlueprintName = "AudioNotes"
-            ReferencedContainer = "container:AudioNotes.xcodeproj">
+            BuildableName = "NotesForTheVisuallyChallenged.app"
+            BlueprintName = "NotesForTheVisuallyChallenged"
+            ReferencedContainer = "container:NotesForTheVisuallyChallenged.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
